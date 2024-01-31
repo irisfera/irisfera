@@ -16,10 +16,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b">
 
-
-<p align="left"> <img src="https://tenor.com/es/view/dconfused-math-solving-gif-10774777" alt="toledo99" /> </p>
-<div class="tenor-gif-embed" data-postid="10774777" data-share-method="host" data-aspect-ratio="1.79104" data-width="100%"><a href="https://tenor.com/view/dconfused-math-solving-gif-10774777">Dconfused Math GIF</a>from <a href="https://tenor.com/search/dconfused-gifs">Dconfused GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 - 🌱 Actualmente estamos haciendo videos sobre: **Combinatoria y teorema del binomio**
 
 - 📫 How to reach me **irisfera.dt@gmail.com**
