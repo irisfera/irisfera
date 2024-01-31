@@ -2,6 +2,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChX44LQgcCBdD8BHrLV2Gvg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChX44LQgcCBdD8BHrLV2Gvg)
 ![GitHub followers](https://img.shields.io/github/followers/irisfera)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irisfera&label=Profile%20views&color=0e75b6&style=flat" alt="irisfera" /> </p>
 
 <h1 align="center">Hola 👋, somos Irisfera</h1>
 
