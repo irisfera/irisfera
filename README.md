@@ -1,11 +1,9 @@
 [![MasterHead](https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b)](https://rishavchanda.io)
 
+![GitHub followers](https://img.shields.io/github/followers/irisfera)
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=irisfera&label=Profile%20views&color=0e75b6&style=flat" alt="irisfera" /> </p>
+
 <h1 align="center">Hola 👋, somos Irisfera</h1>
-
-
-<p align="left"> ![GitHub followers](https://img.shields.io/github/followers/irisfera) <img src="https://komarev.com/ghpvc/?username=irisfera&label=Profile%20views&color=0e75b6&style=flat" alt="irisfera" /> </p>
-
-
 
 <h3 align="center">Queremos ayudar a las personas a entender las matemáticas a través de videos con animaciones y videos</h3>
 
@@ -17,9 +15,10 @@ Contáctanos en **irisfera.dt@gmail.com** 📫
 <a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="170" height="170"/> </a></p>
 
 <h3 align="left">Disfruta de nuestras animaciones en nuestro canal de youtube @irisfera</h3>
+
+<p align="left">
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChX44LQgcCBdD8BHrLV2Gvg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChX44LQgcCBdD8BHrLV2Gvg)
-<p align="left">
 <a href="https://www.youtube.com/@irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="60" width="80" /></a>
 </p>
 
