@@ -19,11 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">We use Python library Manim, community version</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.manim.community%2Fen%2Fstable%2Fexamples.html&psig=AOvVaw0FvCAzT1cUxv6o4ShirY8U&ust=1706750557781000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMizwLe7hoQDFQAAAAAdAAAAABAE" alt="manim" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irisfera&show_icons=true&locale=en&layout=compact" alt="irisfera" /></p>
 
