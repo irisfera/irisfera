@@ -2,11 +2,10 @@
 
 <h1 align="center">Hola 👋, somos Irisfera</h1>
 
+<h3 align="center">We want to help people understand math through animated videos</h3>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChX44LQgcCBdD8BHrLV2Gvg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChX44LQgcCBdD8BHrLV2Gvg)
 ![GitHub followers](https://img.shields.io/github/followers/irisfera)
-
-<h3 align="center">A passionate developer from Mexico, eager to keep learning and growing in the technological world</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b">
 
 
