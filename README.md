@@ -5,12 +5,15 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChX44LQgcCBdD8BHrLV2Gvg)
 ![GitHub followers](https://img.shields.io/github/followers/irisfera)
 
-<h3 align="center">Queremos ayudar a las personas a entender las matemáticas a través de videos con animaciones</h3>
+<h3 align="center">Queremos ayudar a las personas a entender las matemáticas a través de videos con animaciones y videos</h3>
 <h3 align="left">Disfruta de nuestras animaciones en nuestro canal de youtube</h3>
 <p align="left">
 <a href="https://www.youtube.com/@irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Usamos Python y la librería Manim versión community</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="40" height="40"/> </a></p>
 
 
 
@@ -23,9 +26,7 @@
 
 
 
-<h3 align="left">Usamos Python y la librería Manim versión community</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="40" height="40"/> </a></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irisfera&show_icons=true&locale=en&layout=compact" alt="irisfera" /></p>
 
