@@ -11,9 +11,9 @@
 <a href="https://www.youtube.com/@irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Usamos Python y la librería Manim versión community</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="40" height="40"/> </a></p>
+<h3 align="left">Las herramientas que usamos son Python y la librería Manim versión community</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="120" height="120"/> </a>
+<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="200" height="200"/> </a></p>
 
 
 
