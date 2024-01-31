@@ -6,7 +6,7 @@
 <h1 align="center">Hola 👋, somos Irisfera</h1>
 
 <h3 align="center">Queremos ayudar a las personas a entender las matemáticas a través de videos con animaciones y videos</h3>
-📫 Contáctanos en **irisfera.dt@gmail.com**
+📫 Contáctanos en __irisfera.dt@gmail.com__
 
 
 <h3 align="left">Las herramientas que usamos son Python y la librería Manim versión community</h3>
