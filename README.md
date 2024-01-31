@@ -1,10 +1,15 @@
-<h1 align="center">Hola 👋, somos Irisfera</h1>
 [![MasterHead](https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b)](https://rishavchanda.io)
+<h1 align="center">Hola 👋, somos Irisfera</h1>
+<h3 align="center">Queremos ayudar a las personas a entender las matemáticas a través de videos con animaciones</h3>
+<h3 align="left">Disfruta de nuestras animaciones en nuestro canal de youtube</h3>
+<p align="left">
+<a href="https://www.youtube.com/@irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="30" width="40" /></a>
+</p>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChX44LQgcCBdD8BHrLV2Gvg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChX44LQgcCBdD8BHrLV2Gvg)
 ![GitHub followers](https://img.shields.io/github/followers/irisfera)
 
-<h3 align="center">Queremos ayudar a las personas a entender las matemáticas a través de videos con animaciones</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b">
 
@@ -17,10 +22,7 @@
 - 📫 How to reach me **irisfera.dt@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@irisfera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irisfera" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Usamos Python y la librería Manim versión community</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
