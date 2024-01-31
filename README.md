@@ -1,4 +1,3 @@
-### Hola 👋, somos Irisfera
 [![MasterHead](https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b)](https://rishavchanda.io)
 
 <h1 align="center">Hola 👋, somos Irisfera</h1>
