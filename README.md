@@ -12,14 +12,14 @@
 </p>
 
 <h3 align="left">Las herramientas que usamos son Python y la librería Manim versión community</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="120" height="120"/> </a>
-<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="200" height="200"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
+<a href="https://www.manim.community" target="_blank" rel="noreferrer"> <img src="https://github.com/irisfera/irisfera/assets/158130383/8f59b2d9-50dd-4a6f-9ac2-2e06c12c7679" alt="manim" width="220" height="220"/> </a></p>
 
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/irisfera/irisfera/assets/158130383/db902795-1eae-47ea-a88c-d1a58c4e561b">
 
-- 🌱 Actualmente estamos haciendo videos sobre: **Combinatoria y teorema del binomio**
+## 🌱 Actualmente estamos haciendo videos sobre: **Combinatoria y teorema del binomio**
 
 - 📫 How to reach me **irisfera.dt@gmail.com**
 
